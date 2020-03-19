@@ -11,3 +11,14 @@
 //    box-shadow: 3px 3px theme-color-level($color, -3);
 //  }
 //}
+.form-control {
+  border: 0;
+  border-bottom: 1px solid $input-border-color;
+}
+
+.form-control:focus {
+  border-color: crimson;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+}

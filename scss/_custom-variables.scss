@@ -2,31 +2,34 @@
 // You can find them in node_modules/bootstrap/scss/_variables.scss
 // Copy the variables you need into this file, don't modify files under node_modules/
 
-// Some example variables that you can uncomment:
-
 // Enabling shadows and gradients
-//$enable-shadows: true;
-//$enable-gradients: true;
+$enable-shadows: false;
+$enable-gradients: false;
 
 // Changing the body background and text
-//$body-bg: #d3e9eb;
-//$body-color: #151417;
+$body-bg: #f4fef4;
+$body-color: #151417;
 
 // Changing the border radius of buttons
-//$border-radius: 15px;
+$border-radius: 0;
 
 // Changing the theme colors
-//$primary: crimson;
-//$secondary: #436296;
-//$success: #2bc550;
-//$info: #495dff;
-//$warning: #ef8143;
-//$danger: #ff293a;
-//$light: #dfe6ee;
-//$dark: #0f1319;
+$primary: #1A936F;
 
+// global fonts
+$font-family-base: 'Open Sans', sans-serif;
+$font-size-base: 0.875rem;
 
-// Adding (!) an additional theme color (ex. classes btn-cool, bg-cool)
-//$theme-colors: (
-//  "cool": #4d3fa3
-//);
+// for heading
+$headings-font-family: 'Overpass', sans-serif;
+
+// for badge
+$badge-padding-y: .5em;
+$badge-padding-x: .5em;
+$badge-font-size: 80%;
+$badge-font-weight: 400;
+
+// for form controls
+$input-border-radius: 0;
+$input-padding-y: 0.3rem;
+$input-padding-x: 0.3rem;
