@@ -5,5 +5,5 @@ out
 gen
 
 # Project related files to be ignored
-node_modules
-css
+/node_modules/
+/css/
