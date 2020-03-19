@@ -45,6 +45,12 @@ There is a short demonstration of this project on YouTube: [https://www.youtube.
 
 - <https://github.com/twbs/bootstrap/>
 
+## Contributors
+
+**Paul WILLIAMS**
+
+- <https://github.com/paul58914080>
+
 ## Copyright and license
 
 Code and documentation copyright 2017 [HackerThemes](https://hackerthemes.com) Code released under the [MIT License](https://opensource.org/licenses/MIT).
